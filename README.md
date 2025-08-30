@@ -14,7 +14,7 @@ Modules & imports
 
 Loops for continuous interaction
 
-⚙️ Features
+# ⚙️ Features
 
 Responds to greetings (hello, hi, etc.)
 
@@ -30,13 +30,13 @@ Handles unknown inputs with random fallback responses
 
 Exit condition with bye, quit, or exit
 
-🗂️ Project Structure
+# 🗂️ Project Structure
 chatbot/
 │── chatbot.py       # Main chatbot logic
 │── responses.py     # Predefined responses
 │── README.md        # Project documentation
 
-🚀 How to Run
+# 🚀 How to Run
 
 Clone or download the project.
 
@@ -60,12 +60,12 @@ Bot: Always keep learning and improving your skills!
 You: bye
 Bot: Goodbye! 👋
 
-📦 Requirements
+# 📦 Requirements
 
 Python 3.x
 (No external libraries required except the built-in re and random.)
 
-✨ Possible Improvements
+# ✨ Possible Improvements
 
 Add APIs (e.g., weather, jokes, news) for more dynamic responses.
 
